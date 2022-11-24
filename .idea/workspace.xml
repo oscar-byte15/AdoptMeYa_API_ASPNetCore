@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4998c1af-2112-428c-84a0-988b085931b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_9_45_PM_[Changes]/GrupoWebBackend.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_9_45_PM_[Changes]/GrupoWebBackend.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_9_45_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_9_45_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2021_10_39_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_19_2021_10_39_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrupoWebBackend.Tests/obj/Debug/net5.0/GrupoWebBackend.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GrupoWebBackend.Tests/obj/Debug/net5.0/GrupoWebBackend.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GrupoWebBackend.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/GrupoWebBackend.sln.DotSettings.user" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28IYHwHf1d0txNzYZXDKMUedWxi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4998c1af-2112-428c-84a0-988b085931b9" name="Changes" comment="" />
+      <created>1650905483701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650905483701</updated>
+      <workItem from="1650905485628" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

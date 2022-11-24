@@ -1,0 +1,89 @@
+<changelist name="Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]" date="1637268149598" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 11/18/2021 3:42 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/Debug/net5.0/apphost.exe" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/Debug/net5.0/apphost.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/apphost.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.assets.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend.Tests/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend.Tests/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/project.nuget.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.dll" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/Debug/net5.0/ref/GrupoWebBackend.dll" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/Debug/net5.0/ref/GrupoWebBackend.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend1.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/bin/Debug/net5.0/GrupoWebBackend.pdb" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/bin/Debug/net5.0/GrupoWebBackend.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend.Tests/obj/Debug/net5.0/GrupoWebBackend.Tests.assets.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend.Tests/obj/Debug/net5.0/GrupoWebBackend.Tests.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.Tests.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.csproj.CoreCompileInputs.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.csproj.CoreCompileInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.csproj.CoreCompileInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/bin/Debug/net5.0/GrupoWebBackend.exe" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/bin/Debug/net5.0/GrupoWebBackend.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/bin/Debug/net5.0/GrupoWebBackend.dll" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/bin/Debug/net5.0/GrupoWebBackend.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend2.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/bin/Debug/net5.0/ref/GrupoWebBackend.dll" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/bin/Debug/net5.0/ref/GrupoWebBackend.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend3.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.pdb" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend1.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend.Tests/obj/Debug/net5.0/GrupoWebBackend.Tests.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend.Tests/obj/Debug/net5.0/GrupoWebBackend.Tests.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.Tests.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend.Tests/obj/Debug/net5.0/GrupoWebBackend.Tests.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend.Tests/obj/Debug/net5.0/GrupoWebBackend.Tests.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.Tests.AssemblyInfoInputs.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/project.nuget1.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.genruntimeconfig.cache" />
+    <option name="AFTER_PATH" value="GrupoWebBackend/obj/Debug/net5.0/GrupoWebBackend.genruntimeconfig.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.GrupoWebBackend/.idea/shelf/Uncommitted_changes_before_Update_at_11_18_2021_3_42_PM_[Changes]/GrupoWebBackend.genruntimeconfig.cache" />
+  </binary>
+</changelist>

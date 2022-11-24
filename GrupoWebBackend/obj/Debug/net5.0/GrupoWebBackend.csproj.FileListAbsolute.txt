@@ -1,0 +1,859 @@
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricar\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones WEB\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v2\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csprojAssemblyReference.cache
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CopyComplete
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\ricar\Desktop\Nueva carpeta (2)\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v3\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CopyComplete
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v4\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dyland\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ricar\Desktop\Backend Web\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v6\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.StaticWebAssets.xml
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CopyComplete
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.Data.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ZstdNet.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v7\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BCrypt.Net-Next.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.Data.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ZstdNet.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\CICLO-2021-2\APLICACIONES WEB\BACKEND TRABAJO\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ricardo\Desktop\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CopyComplete
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+C:\Users\Dyland\Downloads\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.Data.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ZstdNet.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CopyComplete
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v12\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.Data.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ZstdNet.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v13\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.Development.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\appsettings.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.exe
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.deps.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.runtimeconfig.dev.json
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BoDi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Cucumber.Messages.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Gherkin.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Humanizer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.Data.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\ZstdNet.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\TechTalk.SpecFlow.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\SpecFlow.Internal.Json.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.AssemblyReference.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfoInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.AssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.csproj.CoreCompileInputs.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cs
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.Manifest.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\staticwebassets\GrupoWebBackend.StaticWebAssets.xml
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\scopedcss\bundle\GrupoWebBackend.styles.css
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.RazorTargetAssemblyInfo.cache
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\ref\GrupoWebBackend.dll
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.pdb
+D:\Documentos\2021-2\Backend-Aplicaciones web-Versiones\v15\GrupoWebBackend\GrupoWebBackend\obj\Debug\net5.0\GrupoWebBackend.genruntimeconfig.cache
